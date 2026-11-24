@@ -5,7 +5,7 @@ I specialize in architecting scalable RESTful APIs, relational databases, and au
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Backend & APIs**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -27,15 +27,15 @@ I specialize in architecting scalable RESTful APIs, relational databases, and au
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
-* **[PDP Assistant (Memora OS)](https://github.com/maxmanazar025/pdp-assistant)** — AI-powered academic and task-management Telegram assistant integrating Google Calendar & Tasks APIs (`Python`, `SQLAlchemy`, `PostgreSQL`, `Docker`).
-* **CareTrack Clinic** — Full-stack Medical Records Management System with role-based access and patient scheduling (`Node.js`, `Express.js`, `PostgreSQL`).
-* **Smart Planner Pro & IshTop** — Telegram Mini Apps & automation bots built for task management and micro-freelancing (`Node.js`, `React`, `Prisma`, `Supabase`).
+ **[PDP Assistant (Memora OS)](https://github.com/maxmanazar025/pdp-assistant)** — AI-powered academic and task-management Telegram assistant integrating Google Calendar & Tasks APIs (`Python`, `SQLAlchemy`, `PostgreSQL`, `Docker`).
+ **CareTrack Clinic** — Full-stack Medical Records Management System with role-based access and patient scheduling (`Node.js`, `Express.js`, `PostgreSQL`).
+ **Smart Planner Pro & IshTop** — Telegram Mini Apps & automation bots built for task management and micro-freelancing (`Node.js`, `React`, `Prisma`, `Supabase`).
 
 ---
 
-### 📊 GitHub Activity
+###  GitHub Activity
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=maxmanazar025&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
