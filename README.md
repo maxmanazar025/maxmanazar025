@@ -46,7 +46,7 @@ I specialize in architecting scalable RESTful APIs, relational databases, and au
 
 ### 📫 Connect with Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-@maxmanazar11-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maxmanazar11)
-[![Channel](https://img.shields.io/badge/Blog-@ijodiy__bosqich-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ijodiy_bosqich)
+[![Telegram](https://img.shields.io/badge/Telegram-@maxmanazarbek-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maxmanazarbek)
+[![Channel](https://img.shields.io/badge/Blog-@maxmanazarbek-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maxmanazarbek)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxmanazar_Sultonov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxmanazar-maxmanazar-sultonov-64114139b/)
 [![Email](https://img.shields.io/badge/Email-maxmanazar025@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxmanazar025@gmail.com)
