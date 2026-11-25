@@ -29,6 +29,7 @@ I specialize in architecting scalable RESTful APIs, relational databases, and au
 
 ###  Featured Projects
 
+ **[Portfolio — maxmanazar025.github.io](https://maxmanazar025.github.io)** — Personal portfolio, blog & interactive labs: 11 pages, Ctrl+K command palette, in-browser terminal and live GitHub stats (`HTML`, `CSS`, `Vanilla JS`, `GitHub Pages`).
  **[PDP Assistant (Memora OS)](https://github.com/maxmanazar025/pdp-assistant)** — AI-powered academic and task-management Telegram assistant integrating Google Calendar & Tasks APIs (`Python`, `SQLAlchemy`, `PostgreSQL`, `Docker`).
  **CareTrack Clinic** — Full-stack Medical Records Management System with role-based access and patient scheduling (`Node.js`, `Express.js`, `PostgreSQL`).
  **Smart Planner Pro & IshTop** — Telegram Mini Apps & automation bots built for task management and micro-freelancing (`Node.js`, `React`, `Prisma`, `Supabase`).
@@ -46,6 +47,7 @@ I specialize in architecting scalable RESTful APIs, relational databases, and au
 
 ### 📫 Connect with Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-maxmanazar025.github.io-F59E0B?style=for-the-badge&logo=githubpages&logoColor=white)](https://maxmanazar025.github.io)
 [![Telegram](https://img.shields.io/badge/Telegram-@maxmanazarbek-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maxmanazarbek)
 [![Channel](https://img.shields.io/badge/Blog-@maxmanazarbek-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maxmanazarbek)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxmanazar_Sultonov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxmanazar-sultonov-dev)
